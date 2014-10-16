@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cme:home|Door43 (cme)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cme|d43-cme repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cme/archive/master.zip|d43-cme.zip]]
+
+**Recent Changes**
+{{changes>ns = cme}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cme|Ethnologue data]]
+
